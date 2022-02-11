@@ -1,0 +1,149 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\USER5\OneDrive\Documents\Modelsim\G1_UG3_2022
+vadd_12_bit
+Z1 IPWC_j=elGaM^OkaWW:Teh0
+Z2 V6cMCS5]6Ji3BQZZ9BCbO]1
+Z3 dC:\Users\USER5\OneDrive\Documents\Modelsim\Projects
+Z4 w1644583574
+Z5 8C:/Users/USER5/OneDrive/Documents/Modelsim/Projects/add_12_bit.v
+Z6 FC:/Users/USER5/OneDrive/Documents/Modelsim/Projects/add_12_bit.v
+L0 1
+Z7 OV;L;6.6d;45
+r1
+31
+Z8 !s102 -nocovercells
+Z9 o-work work -nocovercells -O0
+Z10 !s100 C2BY10=jeLMYKgL5HMXjR2
+!s85 0
+!s101 -O0
+vadd_4_bit
+Z11 I9[`LKfWJOAF`8e^5D`N1k2
+Z12 VRz0XTF>k3]=@1i4T[8F]13
+R3
+Z13 w1644578757
+Z14 8C:/Users/USER5/OneDrive/Documents/Modelsim/Projects/add_4_bit.v
+Z15 FC:/Users/USER5/OneDrive/Documents/Modelsim/Projects/add_4_bit.v
+L0 1
+R7
+r1
+31
+R8
+R9
+Z16 !s100 3aH60lzVK0kTS:mYROFO72
+!s85 0
+!s101 -O0
+vadd_6_bit
+Z17 IYRKLEj>ik:[^aEOYn>VZa1
+Z18 VfVikEYO>nTMPRT`QemL9g1
+R3
+Z19 w1644583563
+Z20 8C:/Users/USER5/OneDrive/Documents/Modelsim/Projects/add_6_bit.v
+Z21 FC:/Users/USER5/OneDrive/Documents/Modelsim/Projects/add_6_bit.v
+L0 1
+R7
+r1
+31
+R8
+R9
+Z22 !s100 CN7K[4m<G9U=;5k==G84g3
+!s85 0
+!s101 -O0
+vadd_8_bit
+Z23 IhoQ>XVFi>ZJK_AXB0znG:2
+Z24 VF245Em_^>5H1d=K^Af<e51
+R3
+Z25 w1644583549
+Z26 8C:/Users/USER5/OneDrive/Documents/Modelsim/Projects/add_8_bit.v
+Z27 FC:/Users/USER5/OneDrive/Documents/Modelsim/Projects/add_8_bit.v
+L0 2
+R7
+r1
+31
+R8
+R9
+Z28 !s100 [E2>]KVP75zmhk6X20mDB2
+!s85 0
+!s101 -O0
+vha
+Z29 !s100 `K@K[MnhY[ILi4gj0QYO20
+Z30 I>Y9k[ckKmkn^S1Bj:Bzzm1
+Z31 VaK]MjOD=Y5_:3;n`07UME0
+R3
+Z32 w1644578480
+Z33 8C:/Users/USER5/OneDrive/Documents/Modelsim/Projects/ha.v
+Z34 FC:/Users/USER5/OneDrive/Documents/Modelsim/Projects/ha.v
+L0 1
+R7
+r1
+31
+R8
+R9
+!s85 0
+!s101 -O0
+vtest_vedic_8
+Z35 !s100 hnMV[9VDCBSBV0c:l18d@0
+Z36 I82S7Oc7SzYPXIBLB1c2OR3
+Z37 V8Hz;o?>3L>Bf9iNHO_=1I1
+R3
+Z38 w1644582377
+Z39 8C:/Users/USER5/OneDrive/Documents/Modelsim/Projects/test_vedic_8.v
+Z40 FC:/Users/USER5/OneDrive/Documents/Modelsim/Projects/test_vedic_8.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s101 -O0
+R8
+R9
+vvedic_2_x_2
+Z41 !s100 C6IoTkoZiUg2Vem2Wf3ob3
+Z42 IGk^Z??_?E7:;@42?[iLi12
+Z43 V[Aza`jCFl9_mA0X6Hoe9a3
+R3
+Z44 w1644579279
+Z45 8C:/Users/USER5/OneDrive/Documents/Modelsim/Projects/vedic_2_x_2.v
+Z46 FC:/Users/USER5/OneDrive/Documents/Modelsim/Projects/vedic_2_x_2.v
+L0 1
+R7
+r1
+31
+R8
+R9
+!s85 0
+!s101 -O0
+vvedic_4_x_4
+Z47 ILNg6QVMND[Q7UZ?Wa:N3B0
+Z48 Vj1XEM1foS2cY7A6Jm=>PA3
+R3
+Z49 w1644581835
+Z50 8C:/Users/USER5/OneDrive/Documents/Modelsim/Projects/vedic_4_x_4.v
+Z51 FC:/Users/USER5/OneDrive/Documents/Modelsim/Projects/vedic_4_x_4.v
+L0 1
+R7
+r1
+31
+R8
+R9
+Z52 !s100 ll_b@mZAMBjCnCYTebj_?1
+!s85 0
+!s101 -O0
+vvedic_8_x_8
+Z53 IDBTUVc<YS>j7CQD??VX>Q1
+Z54 V=60nGeIGU514jJ6KP[5_S0
+R3
+Z55 w1644583590
+Z56 8C:/Users/USER5/OneDrive/Documents/Modelsim/Projects/vedic_8_x_8.v
+Z57 FC:/Users/USER5/OneDrive/Documents/Modelsim/Projects/vedic_8_x_8.v
+L0 1
+R7
+r1
+31
+R8
+R9
+Z58 !s100 86_GJE_N0YAbLTWjTik@L1
+!s85 0
+!s101 -O0
